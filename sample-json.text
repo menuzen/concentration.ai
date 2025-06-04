@@ -1,0 +1,86 @@
+{
+  "identity_and_voice": {
+    "name": "",
+      "nickname": "",
+        "preferred_tone": "",
+          "energy_level": "",
+            "structure": [
+              "bullet_points",
+              "narrative"
+            ],
+              "emoji_use": "none | light | expressive",
+                "phrases_to_use": [],
+                  "phrases_to_avoid": [],
+                    "humor_style": "none | dry | sarcastic | playful"
+  },
+  "thinking_style": {
+    "reasoning_style": "first_principles | analogy | frameworks | narrative",
+      "decision_bias": "speed | certainty | gut | data",
+        "framing_preference": "",
+          "problem_solving_style": "strategic | practical | exploratory",
+            "likes_ai_to_challenge": true
+  },
+  "work_context_and_goals": {
+    "role": "",
+      "company": "",
+        "industry": "",
+          "tools_used": [],
+            "current_project": "",
+              "weekly_workflow": "",
+                "blockers": "",
+                  "milestones": "",
+                    "work_upload": "file_reference"
+  },
+  "emotional_style_and_motivation": {
+    "motivators": [],
+      "energy_killers": [],
+        "response_style_stressed": "",
+          "response_style_celebrating": "",
+            "response_style_stuck": "",
+              "emotional_nuance": true
+  },
+  "work_archetype_and_communication": {
+    "archetype": "visionary | builder | operator | explorer | coach",
+      "lead_or_support": "lead | support",
+        "collaboration_style": "fast_async | deep_sync | feedback_first",
+          "communication_style": "direct_blunt | clear_kind | soft_thoughtful | fast_minimal"
+  },
+  "output_preferences": {
+    "tldr_preference": true,
+      "format_preference": "bullets | tables | paragraphs | frameworks",
+        "response_length": "short | medium | deep_dive",
+          "include_next_steps": true,
+            "recommendation_style": "alternatives | strong_recommendation"
+  },
+  "beliefs_and_values": {
+    "core_values": [],
+      "strong_opinions": [],
+        "communication_avoidance": [],
+          "dealbreakers": []
+  },
+  "personal_memory_layer": {
+    "key_milestones": [],
+      "ongoing_work": [],
+        "personal_facts": [],
+          "frequent_collaborators": [],
+            "attached_files": [
+              "file_reference"
+            ],
+              "memory_tags": []
+  },
+  "behavior_and_rituals": {
+    "ritual_preferences": "",
+      "productivity_style": "",
+        "ai_energy_mirroring": true,
+          "profile_update_frequency": "monthly | quarterly"
+  },
+  "privacy_and_export_settings": {
+    "export_chatgpt": true,
+      "export_claude": true,
+        "export_json": true,
+          "redact_emotional": false,
+            "redact_memory": false,
+              "strip_names": false,
+                "export_presets": "stealth | writing_assistant | full_you"
+  }
+}
